@@ -25,6 +25,9 @@ Create a new column O called Percent Funded that uses a formula to uncover how m
 
 
 Use conditional formatting to fill each cell in the Percent Funded column using a three-color scale. The scale should start at 0 and be a dark shade of red, transitioning to green at 100, and blue at 200.
+![image](https://user-images.githubusercontent.com/78287535/127748469-6819c40d-6dd6-4919-8a35-8a5493e8d0bd.png)
+
+
 
 
 Create a new column P called Average Donation that uses a formula to uncover how much each backer for the project paid on average.
@@ -37,6 +40,8 @@ Create two new columns, one called Category at Q and another called Sub-Category
 
 
 Create a new sheet with a pivot table that will analyze your initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per category.
+![image](https://user-images.githubusercontent.com/78287535/127748597-2031454c-d2cf-474a-af29-f3ff81f7d10a.png)
+
 
 
 Create a stacked column pivot chart that can be filtered by country based on the table you have created.
@@ -117,12 +122,17 @@ Greater than or equal to 50000
 
 
 Using the COUNTIFS() formula, count how many successful, failed, and canceled projects were created with goals within the ranges listed above. Populate the Number Successful, Number Failed, and Number Canceled columns with this data.
+![image](https://user-images.githubusercontent.com/78287535/127748759-0cfc7ff5-7c3b-4c09-9f93-2523f7f94690.png)
+
+
 
 
 Add up each of the values in the Number Successful, Number Failed, and Number Canceled columns to populate the Total Projects column. Then, using a mathematical formula, find the percentage of projects that were successful, failed, or canceled per goal range.
 
 
 Create a line chart that graphs the relationship between a goal's amount and its chances at success, failure, or cancellation.
+
+![image](https://user-images.githubusercontent.com/78287535/127748771-9188bb47-ffc3-4d7c-b7e4-12b89ff64ded.png)
 
 
 
@@ -132,6 +142,7 @@ For those looking for an additional challenge, you will evaluate the number of b
 
 
 Create a new worksheet in your workbook, and create a column each for the number of backers of successful campaigns and unsuccessful campaigns.
+![image](https://user-images.githubusercontent.com/78287535/127748697-dff98671-7202-4c31-9837-9d98270e8e68.png)
 
 
 
