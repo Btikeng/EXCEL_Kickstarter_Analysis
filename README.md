@@ -15,10 +15,7 @@ Use conditional formatting to fill each cell in the state column with a differen
 Create a new column O called Percent Funded that uses a formula to uncover how much money a campaign made to reach its initial goal.
 
 
-
 Use conditional formatting to fill each cell in the Percent Funded column using a three-color scale. The scale should start at 0 and be a dark shade of red, transitioning to green at 100, and blue at 200.
-![image](https://user-images.githubusercontent.com/78287535/127748469-6819c40d-6dd6-4919-8a35-8a5493e8d0bd.png)
-
 
 
 
@@ -28,15 +25,18 @@ Create a new column P called Average Donation that uses a formula to uncover how
 Create two new columns, one called Category at Q and another called Sub-Category at R, which use formulas to split the Category and Sub-Category column into two parts.
 
 
+![image](https://user-images.githubusercontent.com/78287535/129175768-18c24d84-e522-44ee-9133-74f228ed0f9e.png)
 
 
 
 Create a new sheet with a pivot table that will analyze your initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per category.
-![image](https://user-images.githubusercontent.com/78287535/127748597-2031454c-d2cf-474a-af29-f3ff81f7d10a.png)
+
+![image](https://user-images.githubusercontent.com/78287535/129176045-40a179f4-b414-4b1f-bde1-31147602dc3c.png)
 
 
 
 Create a stacked column pivot chart that can be filtered by country based on the table you have created.
+
 
 
 
