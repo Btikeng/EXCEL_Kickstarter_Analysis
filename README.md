@@ -135,7 +135,6 @@ For those looking for an additional challenge, you will evaluate the number of b
 
 
 Create a new worksheet in your workbook, and create a column each for the number of backers of successful campaigns and unsuccessful campaigns.
-![image](https://user-images.githubusercontent.com/78287535/127748697-dff98671-7202-4c31-9837-9d98270e8e68.png)
 
 
 
