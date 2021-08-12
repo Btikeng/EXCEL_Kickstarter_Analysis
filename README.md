@@ -1,24 +1,16 @@
-# EXCEL-CHALLENGE
+# EXCEL_Kickstarter_Analysis
 
-Over $2 billion has been raised using the massively successful crowdfunding service, Kickstarter, but not every project has found success. Of the more than 300,000 projects launched on Kickstarter, only a third have made it through the funding process with a positive outcome.
-Getting funded on Kickstarter requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success. For this week's homework, you will organize and analyze a database of 4,000 past projects in order to uncover any hidden trends.
+**SUMMARY**
 
-Before You Begin
+The purpose of this work is to organize and analyze a database of 4,000 past projects in order to uncover any hidden trends.
 
-
-Create a new space for this project called excel-challenge in either DropBox or Google Drive. Do not add this homework to an existing space.
-
-
-Store your excel workbooks in here and create a sharable link for submission.
-
-
-
-Instructions
 
 Using the Excel table provided, modify and analyze the data of 4,000 past Kickstarter projects as you attempt to uncover some market trends.
 
 
 Use conditional formatting to fill each cell in the state column with a different color, depending on whether the associated campaign was successful, failed, or canceled, or is currently live.
+![image](https://user-images.githubusercontent.com/78287535/129175199-3da70460-a68f-4576-af0f-f9cee3a0e967.png)
+
 
 Create a new column O called Percent Funded that uses a formula to uncover how much money a campaign made to reach its initial goal.
 
