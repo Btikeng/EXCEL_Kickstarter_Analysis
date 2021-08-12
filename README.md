@@ -31,6 +31,7 @@ Create two new columns, one called Category at Q and another called Sub-Category
 
 Create a new sheet with a pivot table that will analyze your initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per category.
 
+![image](https://user-images.githubusercontent.com/78287535/129178705-734db813-4ea3-4519-b9bf-4f1f11526d42.png)
 
 
 
@@ -38,15 +39,15 @@ Create a new sheet with a pivot table that will analyze your initial worksheet t
 Create a stacked column pivot chart that can be filtered by country based on the table you have created.
 
 
-
-
-
-
 Create a new sheet with a pivot table that will analyze your initial sheet to count how many campaigns were successful, failed, or canceled, or are currently live per sub-category.
+
+
+![image](https://user-images.githubusercontent.com/78287535/129179192-cffeb4db-a281-4918-b7c4-7d4077034281.png)
 
 
 Create a stacked column pivot chart that can be filtered by country and parent-category based on the table you have created.
 
+![image](https://user-images.githubusercontent.com/78287535/129179340-836ab9be-3a72-437a-ad7e-4cf2cee1717d.png)
 
 
 
@@ -114,8 +115,8 @@ Greater than or equal to 50000
 
 
 Using the COUNTIFS() formula, count how many successful, failed, and canceled projects were created with goals within the ranges listed above. Populate the Number Successful, Number Failed, and Number Canceled columns with this data.
-![image](https://user-images.githubusercontent.com/78287535/127748759-0cfc7ff5-7c3b-4c09-9f93-2523f7f94690.png)
 
+![image](https://user-images.githubusercontent.com/78287535/129179668-f4bc38b1-15f0-4a47-be35-ad18915f06c8.png)
 
 
 
@@ -160,27 +161,9 @@ The standard deviation of the number of backers.
 
 
 
-
 Use your data to determine whether the mean or the median summarizes the data more meaningfully.
 
 
-Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
+![image](https://user-images.githubusercontent.com/78287535/129179959-b49864a7-3159-4603-af16-5e65db0f909b.png)
 
 
-
-Submission
-
-To submit your homework, upload the solution and files to a GitHub repo, Dropbox, or Google Drive and submit the link to https://bootcampspot.com/.
-
-
-Employer-Ready Criteria
-Students who are marked as employer-ready gain access to our employer referral program, additional workshops, and other resources. Work with your Career Director to become employer-ready. At a minimum, you must have:
-
-A clear, concise, and compelling resume. Submit via your learning platform for review.
-A polished GitHub profile:
-
-3 - 6 pinned repositories (instructions here)
-at least 5 commits per repository
-professional titles, i.e. not "Homework #1"
-thorough README.md files for each repository
-clean code
